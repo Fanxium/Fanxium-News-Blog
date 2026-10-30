@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* @import "tailwind base";
+@import "tailwind components";
+@import "tailwind utilities"; */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
